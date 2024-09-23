@@ -1,0 +1,1 @@
+# StreamReader_StreamWriter_NET8
